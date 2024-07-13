@@ -12,7 +12,7 @@
 8. [Results](#Results)
 9. [Conclusion](#Conclusion)
 10. [Known Issues](#known-issues)
-11. [Conclusion and License](#conclusion-and-license)
+11. [License](#conclusion-and-license)
 
 
 **Dataset Source**
@@ -76,5 +76,6 @@ Although this project achieves a high accuracy of 99.99% and a perfect ROC curve
 ***I am actively working on addressing these issues and improving the model's robustness.***
 
 **License**
+
 This project is licensed under the MIT License. See the LICENSE file for more information.
 
